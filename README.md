@@ -1,15 +1,16 @@
 
-📊 Data Analyst Internship Portfolio
+📊 **Data Analyst Internship Portfolio**
 
-👋 Overview
+**👋 Overview**
 
 This repository consolidates all projects completed during my Data Analyst Internship.
 It demonstrates an end-to-end data analytics workflow — from exploratory analysis to business storytelling and statistical validation.
+
 The portfolio showcases technical skills, business reasoning, and data-driven decision-making capabilities.
 
-🚀 Internship Project Breakdown
+🚀 **Internship Project Breakdown**
 
-🔹 Task 1 — Exploratory Data Analysis (EDA)
+🔹 **Task 1 — Exploratory Data Analysis (EDA)**
 
 Data cleaning & preprocessing
 
@@ -21,7 +22,7 @@ Initial churn insights
 
 🔗 [Task-1 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling)
 
-🔹 Task 2 — Data Visualization
+🔹** Task 2 — Data Visualization**
 
 Advanced visualizations using Python
 
@@ -31,7 +32,7 @@ Insight-driven storytelling
 
 🔗  [Task-2 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling/tree/main/Task-2-EDA)
 
-🔹 Task 3 — Interactive Dashboard & Segmentation
+🔹 **Task 3 — Interactive Dashboard & Segmentation**
 
 Defined Core KPIs
 
@@ -43,7 +44,7 @@ Identified high-risk churn segments
 
 🔗 [Task-3 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling/tree/main/Task-3)
 
-🔹 Task 4 — Business Narrative & Statistical Validation
+🔹 **Task 4 — Business Narrative & Statistical Validation**
 
 Structured executive-level presentation
 
@@ -55,40 +56,41 @@ Statistically validated segmentation insights
 
 🔗  [Task-4 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling/tree/main/task-4)
 
-📈 Key Skills Demonstrated
-Technical Skills
+📈** Key Skills Demonstrated**
 
-Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy)
+**Technical Skills**
 
-Tableau Dashboard Development
+.Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy)
 
-Statistical Testing (Chi-Square Test)
+.Tableau Dashboard Development
 
-Data Cleaning & Feature Engineering
+.Statistical Testing (Chi-Square Test)
 
-KPI Development
+.Data Cleaning & Feature Engineering
 
-Analytical Skills
+.KPI Development
 
-Segmentation Analysis
+**Analytical Skills**
 
-Hypothesis Testing
+.Segmentation Analysis
 
-Business Problem Framing
+.Hypothesis Testing
 
-Insight Communication
+.Business Problem Framing
 
-Professional Skills
+.Insight Communication
 
-Stakeholder Presentation
+**Professional Skills**
 
-Data Storytelling
+.Stakeholder Presentation
 
-Strategic Recommendations
+.Data Storytelling
 
-GitHub Documentation
+.Strategic Recommendations
 
-🏆 Key Business Insights
+.GitHub Documentation
+
+🏆** Key Business Insights**
 
 Customer churn varies significantly across segments.
 
