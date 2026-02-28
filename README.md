@@ -1,7 +1,7 @@
 
 📊 Data Analyst Internship Portfolio
-👋 Overview
 
+👋 Overview
 This repository consolidates all projects completed during my Data Analyst Internship.
 It demonstrates an end-to-end data analytics workflow — from exploratory analysis to business storytelling and statistical validation.
 
@@ -18,7 +18,7 @@ Correlation heatmaps
 
 Initial churn insights
 
-🔗 Repository Link:
+🔗 Repository Link:https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling
 Task-1 Repository
 
 🔹 Task 2 — Data Visualization
@@ -29,7 +29,7 @@ Distribution plots, boxplots, and countplots
 
 Insight-driven storytelling
 
-🔗 Repository Link:
+🔗 Repository Link:https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling
 Task-2 Repository
 
 🔹 Task 3 — Interactive Dashboard & Segmentation
@@ -42,7 +42,7 @@ Built interactive Tableau dashboard
 
 Identified high-risk churn segments
 
-🔗 Repository Link:
+🔗 Repository Link:https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling
 Task-3 Repository
 
 🔹 Task 4 — Business Narrative & Statistical Validation
@@ -55,7 +55,7 @@ Conducted Chi-Square test
 
 Statistically validated segmentation insights
 
-🔗 Repository Link:
+🔗 Repository Link:https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling
 Task-4 Repository
 
 📈 Key Skills Demonstrated
