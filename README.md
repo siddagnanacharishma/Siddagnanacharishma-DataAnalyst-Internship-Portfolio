@@ -2,9 +2,9 @@
 📊 Data Analyst Internship Portfolio
 
 👋 Overview
+
 This repository consolidates all projects completed during my Data Analyst Internship.
 It demonstrates an end-to-end data analytics workflow — from exploratory analysis to business storytelling and statistical validation.
-
 The portfolio showcases technical skills, business reasoning, and data-driven decision-making capabilities.
 
 🚀 Internship Project Breakdown
