@@ -8,6 +8,7 @@ It demonstrates an end-to-end data analytics workflow — from exploratory analy
 The portfolio showcases technical skills, business reasoning, and data-driven decision-making capabilities.
 
 🚀 Internship Project Breakdown
+
 🔹 Task 1 — Exploratory Data Analysis (EDA)
 
 Data cleaning & preprocessing
@@ -19,6 +20,7 @@ Correlation heatmaps
 Initial churn insights
 
 🔗 [Task-1 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling)
+
 🔹 Task 2 — Data Visualization
 
 Advanced visualizations using Python
