@@ -22,7 +22,7 @@ Initial churn insights
 
 🔗 [Task-1 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling)
 
-🔹** Task 2 — Data Visualization**
+🔹 **Task 2 — Data Visualization**
 
 Advanced visualizations using Python
 
@@ -44,7 +44,7 @@ Identified high-risk churn segments
 
 🔗 [Task-3 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling/tree/main/Task-3)
 
-🔹 **Task 4 — Business Narrative & Statistical Validation**
+🔹**Task 4 — Business Narrative & Statistical Validation**
 
 Structured executive-level presentation
 
@@ -56,7 +56,7 @@ Statistically validated segmentation insights
 
 🔗  [Task-4 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling/tree/main/task-4)
 
-📈** Key Skills Demonstrated**
+📈**Key Skills Demonstrated**
 
 **Technical Skills**
 
@@ -90,7 +90,7 @@ Statistically validated segmentation insights
 
 .GitHub Documentation
 
-🏆** Key Business Insights**
+🏆**Key Business Insights**
 
 Customer churn varies significantly across segments.
 
