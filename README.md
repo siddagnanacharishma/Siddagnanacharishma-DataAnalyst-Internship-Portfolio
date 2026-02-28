@@ -18,9 +18,7 @@ Correlation heatmaps
 
 Initial churn insights
 
-🔗 Repository Link:https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling
-Task-1 Repository
-
+🔗 [Task-1 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling)
 🔹 Task 2 — Data Visualization
 
 Advanced visualizations using Python
@@ -29,8 +27,7 @@ Distribution plots, boxplots, and countplots
 
 Insight-driven storytelling
 
-🔗 Repository Link:https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling
-Task-2 Repository
+🔗  [Task-2 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling/tree/main/Task-2-EDA)
 
 🔹 Task 3 — Interactive Dashboard & Segmentation
 
@@ -42,8 +39,7 @@ Built interactive Tableau dashboard
 
 Identified high-risk churn segments
 
-🔗 Repository Link:https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling
-Task-3 Repository
+🔗 [Task-3 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling/tree/main/Task-3)
 
 🔹 Task 4 — Business Narrative & Statistical Validation
 
@@ -55,8 +51,7 @@ Conducted Chi-Square test
 
 Statistically validated segmentation insights
 
-🔗 Repository Link:https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling
-Task-4 Repository
+🔗  [Task-4 Repository](https://github.com/siddagnanacharishma/Banking-Customer-Churn-Data-Wrangling/tree/main/task-4)
 
 📈 Key Skills Demonstrated
 Technical Skills
